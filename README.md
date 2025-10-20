@@ -1,1 +1,1 @@
-# Customer-Personality-Analysis
+# Customer-Personality-Analysis (data cleaning and project)
